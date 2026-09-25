@@ -1,4 +1,4 @@
-# Ephpicman
+# EphpicMan
 
 **A developer-focused toolkit for testing, diagnosing, and troubleshooting WordPress applications.**
 
